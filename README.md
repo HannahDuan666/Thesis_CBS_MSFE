@@ -8,7 +8,7 @@ Code for the Thesis Project at Columbia Business School, Master of Science in Fi
 
 
 
-Description for each file:
+## Description for each file:
 
 1. Fetch_data.ipynb -- Fetch earnings call data from WRDS database from 2015 to 2024
 
